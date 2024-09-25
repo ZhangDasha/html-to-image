@@ -45,7 +45,7 @@ All the top level functions accept DOM node and rendering options, and return a 
 - [toCanvas](#toCanvas)
 - [toPixelData](#toPixelData)
 
-Go with the following examples.
+Go with the following examples daXiang.
 
 #### toPng
 Get a PNG image base64-encoded data URL and display it right away:
